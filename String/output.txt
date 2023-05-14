@@ -1,0 +1,2 @@
+NAHIDVAI
+Length of Array = 8
